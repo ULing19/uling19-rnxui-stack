@@ -141,3 +141,8 @@ x-ui v2-ui
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/vaxilu/x-ui.svg)](https://starchart.cc/vaxilu/x-ui)
+
+
+## ULing19 True Fork Notice / 复刻声明
+
+This repository is maintained as a ULing19 true GitHub fork for integration experiments. See [ULING19_FORK_NOTICE.md](./ULING19_FORK_NOTICE.md).
